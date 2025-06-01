@@ -39,7 +39,7 @@
 
 ## 🎖️ Awards
 
-- 🏆 Top Paper – PHealth Conference (2024)  
+- 🏆 Among Top Papers – PHealth Conference (2024)  
 - 🥇 Top 30% PhD Scholarship – University of Pavia (2022)  
 - 🎓 Erasmus+ Medical Imaging & Brainteaser Grant Recipient  
 - 🚀 Finalist – TU/e Data Challenge Week (2021)
