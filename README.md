@@ -35,7 +35,7 @@ Keywords: `Deep Learning`, `Preprocessing Data`, `AI`, `NLP`, `LLMs`
 **Data Science:** Deep Learning, Time-Series Analysis, Missing Data Imputation, Markov Models, Mixed-Effect Models  
 **Visualization:** Power BI, Matplotlib, Seaborn, ggplot2  
 **DevOps Tools:** Docker, Git
-**Research Tools:** Canva, Lucid, Latex, Zotero
+**Research Tools:** Latex, Canva, Lucid, Zotero
 **Soft Skills:** Problem-solving, Critical Thinking, Storytelling, Time Management  
 
 ## 🎖️ Awards
