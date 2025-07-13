@@ -46,7 +46,7 @@ Keywords: `Deep Learning`, `Preprocessing Data`, `AI`, `NLP`, `LLMs`
 - 🚀 Finalist – TU/e Data Challenge Week (2021)
 
 ## 🎯 Fun Facts
-
+- 🧘 I believe time the most valuable asset
 - 🧩 I enjoy playing chess and badminton.  
 - 🎥 I love watching documentaries and listening to tech/health podcasts.  
-- 🧘 I believe science should be human-centered and data-driven.
+
