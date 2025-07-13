@@ -16,6 +16,8 @@
 - 🌱 Currently learning more about **Graph Neural Networks** and **causal inference**.
 - 🗣️ I speak **Persian (native)**, **English (fluent)**, and learning **Dutch**
 
+Keywords: `Deep Learning`, `Preprocessing Data`, `AI`, `NLP`, `LLMs`
+
 ## 📫 How to reach me
 
 - ✉️ Email: mahvazifehdan@gmail.com  
@@ -23,20 +25,21 @@
 - 📚 Google Scholar: [Mahin Vazifehdan](https://scholar.google.com/citations?user=RT58ucwAAAAJ&hl=en)  
 - 🌐 GitHub: [MahinVazifeh](https://github.com/MahinVazifeh)
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MahinVazifeh&show_icons=true&theme=monokai" alt="Mahin Vazifehdan's GitHub stats" /><br />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahinVazifeh&hide=jupyter%20notebook&theme=monokai&langs_count=10&layout=compact" alt="Mahin Vazifehdan's GitHub stats" /><br />
+</p>
+
 ## 🛠️ Skills & Tools
 
-**Languages & Libraries:** Python, R, SQL, Keras, PyTorch, Scikit-learn, Pandas, NumPy, YOLO, Transformers,   
+**Languages & Libraries:** Python, R, SQL, Keras, PyTorch, Scikit-learn, Pandas, NumPy, YOLO, Transformers   
 **Data Science:** Deep Learning, Time-Series Analysis, Missing Data Imputation, Markov Models, Mixed-Effect Models  
 **Visualization:** Power BI, Matplotlib, Seaborn, ggplot2  
 **DevOps Tools:** Docker, Git
 **Research Tools:** Canva, Lucid, Latex, Zotero
-**Soft Skills:** Leadership, Critical Thinking, Storytelling, Time Management  
-
-## 📄 Selected Publications
-
-- 📘 *Longitudinal Missing Data Imputation for Predicting Disability Stage of Patients with Multiple Sclerosis*, CIBB 2025 – [arXiv](https://arxiv.org/abs/2501.12927)  
-- 📗 *Continuous Markov Models for Analyzing Environmental Exposure in MS Progression*, PHealth 2024  
-- 📙 *Hybrid Bayesian-Tensor Model for Breast Cancer Recurrence*, J. King Saud Univ. - Comp & Info Sci
+**Soft Skills:** Problem-solving, Critical Thinking, Storytelling, Time Management  
 
 ## 🎖️ Awards
 
