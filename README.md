@@ -13,7 +13,7 @@
 - 🔭 I’m passionate about **AI for healthcare**, with expertise in deep learning, time-series analysis, and bioinformatics.
 - 🧪 Currently working on **Disease Progression modeling** for **Multiple Sclerosis (MS)** using longitudinal clinical and environmental data.
 - 💡 Research interests: **Data Sequential Modeling**, **Interpretable AI**, **Markov Models**, and **Missing Data Imputation**.
-- 🌱 Currently learning more about **Graph Neural Networks** and **causal inference**.
+- 🌱 Currently learning more about **Graph Neural Networks** and **LLMs**.
 - 🗣️ I speak **Persian (native)**, **English (fluent)**, and learning **Dutch**
 
 Keywords: `Deep Learning`, `Preprocessing Data`, `AI`, `NLP`, `LLMs`
@@ -25,9 +25,6 @@ Keywords: `Deep Learning`, `Preprocessing Data`, `AI`, `NLP`, `LLMs`
 - 📚 Google Scholar: [Mahin Vazifehdan](https://scholar.google.com/citations?user=RT58ucwAAAAJ&hl=en)  
 - 🌐 GitHub: [MahinVazifeh](https://github.com/MahinVazifeh)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MahinVazifeh&show_icons=true&theme=monokai" alt="Mahin Vazifehdan's GitHub stats" /><br />
-</p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahinVazifeh&hide=jupyter%20notebook&theme=monokai&langs_count=10&layout=compact" alt="Mahin Vazifehdan's GitHub stats" /><br />
 </p>
