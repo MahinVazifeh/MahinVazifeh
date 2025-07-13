@@ -34,9 +34,9 @@ Keywords: `Deep Learning`, `Preprocessing Data`, `AI`, `NLP`, `LLMs`
 **Languages & Libraries:** Python, R, SQL, Keras, PyTorch, Scikit-learn, Pandas, NumPy, YOLO, Transformers   
 **Data Science:** Deep Learning, Time-Series Analysis, Missing Data Imputation, Markov Models, Mixed-Effect Models  
 **Visualization:** Power BI, Matplotlib, Seaborn, ggplot2  
-**DevOps Tools:** Docker, Git
-**Research Tools:** Latex, Canva, Lucid, Zotero
-**Soft Skills:** Problem-solving, Critical Thinking, Storytelling, Time Management  
+**DevOps Tools:** Docker, Git  
+**Research Tools:** Latex, Canva, Lucid, Zotero   
+**Soft Skills:** Time Managment, Discipline, Storytelling, Self-Motivated, Problem-solving, Critical Thinking   
 
 ## 🎖️ Awards
 
