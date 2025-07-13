@@ -11,10 +11,10 @@
 ## 🧠 About Me
 
 - 🔭 I’m passionate about **AI for healthcare**, with expertise in deep learning, time-series analysis, and bioinformatics.
-- 🧪 Currently working on **disease progression modeling** for **Multiple Sclerosis (MS)** using longitudinal clinical and environmental data.
-- 💡 Research interests: **Missing data imputation**, **interpretable AI**, **Markov models**, and **exposure science**.
+- 🧪 Currently working on **Disease Progression modeling** for **Multiple Sclerosis (MS)** using longitudinal clinical and environmental data.
+- 💡 Research interests: **Data Sequential Modeling**, **Interpretable AI**, **Markov Models**, and **Missing Data Imputation**.
 - 🌱 Currently learning more about **Graph Neural Networks** and **causal inference**.
-- 🗣️ I speak **Persian (native)**, **English (fluent)**, and learning **Dutch** and **Italian**.
+- 🗣️ I speak **Persian (native)**, **English (fluent)**, and learning **Dutch**
 
 ## 📫 How to reach me
 
@@ -25,10 +25,11 @@
 
 ## 🛠️ Skills & Tools
 
-**Languages & Libraries:** Python, R, SQL, Keras, PyTorch, Scikit-learn, Pandas, NumPy  
-**Data Science:** Time-Series Analysis, Missing Data Imputation, Markov Models, Mixed-Effect Models  
+**Languages & Libraries:** Python, R, SQL, Keras, PyTorch, Scikit-learn, Pandas, NumPy, YOLO, Transformers,   
+**Data Science:** Deep Learning, Time-Series Analysis, Missing Data Imputation, Markov Models, Mixed-Effect Models  
 **Visualization:** Power BI, Matplotlib, Seaborn, ggplot2  
-**Other Tools:** Docker, Git, LaTeX, PyNIO, Lucid  
+**DevOps Tools:** Docker, Git
+**Research Tools:** Canva, Lucid, Latex, Zotero
 **Soft Skills:** Leadership, Critical Thinking, Storytelling, Time Management  
 
 ## 📄 Selected Publications
