@@ -10,17 +10,23 @@
 
 🔍 About Me
 
-    🔭 I’m passionate about AI — from concept to deployment — with expertise in deep learning, time-series analysis, and bioinformatics.
+  - 🔭 I’m passionate about AI — from concept to deployment — with expertise in deep learning, time-series analysis, and bioinformatics.
     
-    🧪 Currently researching disease progression modeling for Multiple Sclerosis (MS) using longitudinal clinical and environmental data.
+  - 🧪 Currently researching disease progression modeling for Multiple Sclerosis (MS) using longitudinal clinical and environmental data.
     
-    💡 My research interests include sequential data modeling, interpretable AI, Markov models, and missing data imputation.
+  - 💡 My research interests include sequential data modeling, interpretable AI, Markov models, and missing data imputation.
     
-    🌱 Actively expanding my knowledge in graph neural networks (GNNs) and large language models (LLMs).
+  - 🌱 Actively expanding my knowledge in graph neural networks (GNNs) and large language models (LLMs).
     
-    🗣️ I speak English, Persian, and basic Dutch (A2, ongoing).
+  - 🗣️ I speak English, Persian, and basic Dutch (A2, ongoing).
 
 Keywords: `Deep Learning`, `Preprocessing Data`, `AI`, `NLP`, `LLMs`
+
+## 🎯 Personal Facts
+
+- 🧘 I believe time is the most valuable asset
+- 🧩 I enjoy playing chess and badminton.  
+- 🎥 I love watching documentaries and listening to tech podcasts.  
 
 ## 📫 How to reach me
 
@@ -48,9 +54,4 @@ Keywords: `Deep Learning`, `Preprocessing Data`, `AI`, `NLP`, `LLMs`
 - 🥇 Top 30% PhD Scholarship – University of Pavia (2022)  
 - 🎓 Erasmus+ Medical Imaging & Brainteaser Grant Recipient  
 - 🚀 Finalist – TU/e Data Challenge Week (2021)
-
-## 🎯 Fun Facts
-- 🧘 I believe time the most valuable asset
-- 🧩 I enjoy playing chess and badminton.  
-- 🎥 I love watching documentaries and listening to tech/health podcasts.  
 
