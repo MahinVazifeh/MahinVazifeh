@@ -14,7 +14,7 @@
 
   - 🌱 Actively expanding my knowledge in graph neural networks (GNNs) and large language models (LLMs).
     
-  - 🧪 My Phd was about Environment Exposure (Air Pollution & Weather Conditions) on MS Progression
+  - 🧪 My Phd was about the impact of Environment Exposure (Air Pollution & Weather Conditions) on MS Progression
     
   - 🗣️ I speak English, Persian, and basic Dutch (A2, ongoing).
 
