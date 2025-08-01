@@ -26,6 +26,43 @@ Keywords: `Deep Learning`, `Preprocessing Data`, `AI`, `NLP`, `LLMs`
 - 🧩 I enjoy playing chess and badminton.  
 - 🎥 I love watching documentaries and listening to tech podcasts.  
 
+## 🧠 Soft Skills
+
+  - ⏰ Time Management: Strong sense of discipline, meeting deadlines, task prioritization, and self-motivation
+
+  -🌍 Adaptability & Growth Mindset: Learning from failure, cultural adaptability, and agility
+
+  - 💬 Communication & Collaboration: Effective communication and responsiveness
+
+  - 🧑‍🤝‍🧑 Leadership: Leading small project teams
+
+💻 Hard Skills
+
+  - 🤖 Machine Learning Areas: Data preprocessing, data integration, time-series analysis, longitudinal data modeling
+
+  - 🧠 Deep Learning Areas: Sequential data modeling, object detection, large language models (LLMs)
+
+  - 📊 Mathematical & Statistical Tools: Markov models, Hidden Markov models, mixed-effects models
+
+  - 💻 Programming Languages: Python, R, DAX, Bash
+
+  - 🗄️ Database Systems: SQL Server
+
+  - 🛠️ ML Libraries & Frameworks: Pandas, NumPy, Scikit-learn, Keras, PyTorch, YOLO, Transformers
+
+  - 📈 Data Visualization: Power BI, Matplotlib, Seaborn, ggplot
+
+  - 🐳 DevOps & Version Control: Docker, Git
+
+  - 📚 Research Tools: LaTeX, Microsoft Office, Canva, Lucid
+
+## 🎖️ Awards
+
+- 🏆 Among Top Papers – PHealth Conference (2024)  
+- 🥇 Top 30% PhD Scholarship – University of Pavia (2022)  
+- 🎓 Erasmus+ Medical Imaging & Brainteaser Grant Recipient  
+- 🚀 Finalist – TU/e Data Challenge Week (2021)
+
 ## 📫 How to reach me
 
 - ✉️ Email: mahvazifehdan@gmail.com  
@@ -36,20 +73,4 @@ Keywords: `Deep Learning`, `Preprocessing Data`, `AI`, `NLP`, `LLMs`
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahinVazifeh&hide=jupyter%20notebook&theme=monokai&langs_count=10&layout=compact" alt="Mahin Vazifehdan's GitHub stats" /><br />
 </p>
-
-## 🛠️ Skills & Tools
-
-**Languages & Libraries:** Python, R, SQL, Keras, PyTorch, Scikit-learn, Pandas, NumPy, YOLO, Transformers   
-**Data Science:** Deep Learning, Time-Series Analysis, Missing Data Imputation, Markov Models, Mixed-Effect Models  
-**Visualization:** Power BI, Matplotlib, Seaborn, ggplot2  
-**DevOps Tools:** Docker, Git  
-**Research Tools:** Latex, Canva, Lucid, Zotero   
-**Soft Skills:** Time Managment, Discipline, Storytelling, Self-Motivated, Problem-solving, Critical Thinking   
-
-## 🎖️ Awards
-
-- 🏆 Among Top Papers – PHealth Conference (2024)  
-- 🥇 Top 30% PhD Scholarship – University of Pavia (2022)  
-- 🎓 Erasmus+ Medical Imaging & Brainteaser Grant Recipient  
-- 🚀 Finalist – TU/e Data Challenge Week (2021)
 
