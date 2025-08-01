@@ -30,13 +30,13 @@ Keywords: `Deep Learning`, `Preprocessing Data`, `AI`, `NLP`, `LLMs`
 
   - ⏰ Time Management: Strong sense of discipline, meeting deadlines, task prioritization, and self-motivation
 
-  -🌍 Adaptability & Growth Mindset: Learning from failure, cultural adaptability, and agility
+  - 🌍 Adaptability & Growth Mindset: Learning from failure, cultural adaptability, and agility
 
   - 💬 Communication & Collaboration: Effective communication and responsiveness
 
   - 🧑‍🤝‍🧑 Leadership: Leading small project teams
 
-💻 Hard Skills
+## 💻 Hard Skills
 
   - 🤖 Machine Learning Areas: Data preprocessing, data integration, time-series analysis, longitudinal data modeling
 
