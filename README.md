@@ -22,44 +22,44 @@ Keywords: `Deep Learning`, `Preprocessing Data`, `AI`, `NLP`, `LLMs`
 
 ## 🎯 Personal Facts
 
-- 🧘 I believe time is the most valuable asset
+- 🧘 I believe **time** is the most valuable asset
 - 🧩 I enjoy playing chess and badminton.  
 - 🎥 I love watching documentaries and listening to tech podcasts.  
 
 ## 🧠 Soft Skills
 
-  - ⏰ Time Management: Strong sense of discipline, meeting deadlines, task prioritization, and self-motivation
+  - ⏰ **Time Management**: Strong sense of discipline, meeting deadlines, task prioritization, and self-motivation
 
-  - 🌍 Adaptability & Growth Mindset: Learning from failure, cultural adaptability, and agility
+  - 🌍 **Adaptability & Growth Mindset**: Learning from failure, cultural adaptability, and agility
 
-  - 💬 Communication & Collaboration: Effective communication and responsiveness
+  - 💬 **Communication & Collaboration**: Effective communication and responsiveness
 
-  - 🧑‍🤝‍🧑 Leadership: Leading small project teams
+  - 🧑‍🤝‍🧑 **Leadership**: Leading small project teams
 
 ## 💻 Hard Skills
 
-  - 🤖 Machine Learning Areas: Data preprocessing, data integration, time-series analysis, longitudinal data modeling
+  - 🤖 **Machine Learning Areas**: Data preprocessing, data integration, time-series analysis, longitudinal data modeling
 
-  - 🧠 Deep Learning Areas: Sequential data modeling, object detection, large language models (LLMs)
+  - 🧠 **Deep Learning Areas**: Sequential data modeling, object detection, large language models (LLMs)
 
-  - 📊 Mathematical & Statistical Tools: Markov models, Hidden Markov models, mixed-effects models
+  - 📊 **Mathematical & Statistical Tools**: Markov models, Hidden Markov models, mixed-effects models
 
-  - 💻 Programming Languages: Python, R, DAX, Bash
+  - 💻 **Programming Languages**: Python, R, DAX, Bash
 
-  - 🗄️ Database Systems: SQL Server
+  - 🗄️ **Database Systems**: SQL Server
 
-  - 🛠️ ML Libraries & Frameworks: Pandas, NumPy, Scikit-learn, Keras, PyTorch, YOLO, Transformers
+  - 🛠️ **ML Libraries & Frameworks**: Pandas, NumPy, Scikit-learn, Keras, PyTorch, YOLO, Transformers
 
-  - 📈 Data Visualization: Power BI, Matplotlib, Seaborn, ggplot
+  - 📈 **Data Visualization**: Power BI, Matplotlib, Seaborn, ggplot
 
-  - 🐳 DevOps & Version Control: Docker, Git
+  - 🐳 **DevOps & Version Control**: Docker, Git
 
-  - 📚 Research Tools: LaTeX, Microsoft Office, Canva, Lucid
+  - 📚 **Research Tools**: LaTeX, Microsoft Office, Canva, Lucid
 
 ## 🎖️ Awards
 
-- 🏆 Among Top Papers – PHealth Conference (2024)  
-- 🥇 Top 30% PhD Scholarship – University of Pavia (2022)  
+- 🏆 **Among Top Papers** – PHealth Conference (2024)  
+- 🥇 **Top 30% PhD Scholarship** – University of Pavia (2022)  
 - 🎓 Erasmus+ Medical Imaging & Brainteaser Grant Recipient  
 - 🚀 Finalist – TU/e Data Challenge Week (2021)
 
