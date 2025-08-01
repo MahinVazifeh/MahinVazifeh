@@ -5,18 +5,16 @@
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github)](https://github.com/MahinVazifeh)
 
 🎓 PhD in Bioengineering | University of Pavia  
-🔬 AI in Healthcare | Clinical Data | Environmental Exposure | Predictive Modeling  
+🔬 AI | Data  
 📍 Based in Pavia, Italy
 
 🔍 About Me
 
-  - 🔭 I’m passionate about AI — from concept to deployment — with expertise in deep learning, time-series analysis, and bioinformatics.
-    
-  - 🧪 Currently researching disease progression modeling for Multiple Sclerosis (MS) using longitudinal clinical and environmental data.
-    
-  - 💡 My research interests include sequential data modeling, interpretable AI, Markov models, and missing data imputation.
-    
+  - 🔭 I’m passionate about AI — from concept to deployment — with expertise in deep learning, time-series analysis, predictive modelling.
+
   - 🌱 Actively expanding my knowledge in graph neural networks (GNNs) and large language models (LLMs).
+    
+  - 🧪 My Phd was about Environment Exposure (Air Pollution & Weather Conditions) on MS Progression
     
   - 🗣️ I speak English, Persian, and basic Dutch (A2, ongoing).
 
