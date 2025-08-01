@@ -8,7 +8,7 @@
 🔬 AI | Data  
 📍 Based in Pavia, Italy
 
-🔍 About Me
+## 🔍 About Me
 
   - 🔭 I’m passionate about AI — from concept to deployment — with expertise in deep learning, time-series analysis, predictive modelling.
 
