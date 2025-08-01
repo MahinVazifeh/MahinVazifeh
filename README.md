@@ -8,13 +8,12 @@
 🔬 AI in Healthcare | Clinical Data | Environmental Exposure | Predictive Modeling  
 📍 Based in Pavia, Italy
 
-## 🧠 About Me
-
-- 🔭 I’m passionate about **AI for healthcare**, with expertise in deep learning, time-series analysis, and bioinformatics.
-- 🧪 Currently working on **Disease Progression modeling** for **Multiple Sclerosis (MS)** using longitudinal clinical and environmental data.
-- 💡 Research interests: **Data Sequential Modeling**, **Interpretable AI**, **Markov Models**, and **Missing Data Imputation**.
-- 🌱 Currently learning more about **Graph Neural Networks** and **LLMs**.
-- 🗣️ I speak **Persian (native)**, **English (fluent)**, and learning **Dutch**
+🔍 About Me
+    🔭 I’m passionate about AI — from concept to deployment — with expertise in deep learning, time-series analysis, and bioinformatics.
+    🧪 Currently researching disease progression modeling for Multiple Sclerosis (MS) using longitudinal clinical and environmental data.
+    💡 My research interests include sequential data modeling, interpretable AI, Markov models, and missing data imputation.
+    🌱 Actively expanding my knowledge in graph neural networks (GNNs) and large language models (LLMs).
+    🗣️ I speak English, Persian, and basic Dutch (A2, ongoing).
 
 Keywords: `Deep Learning`, `Preprocessing Data`, `AI`, `NLP`, `LLMs`
 
