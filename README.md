@@ -9,7 +9,9 @@
 📍 Based in Pavia, Italy
 
 ## 🔍 About Me
-
+  
+  - 🌍 Driven to make a difference.
+    
   - 🔭 I’m passionate about AI — from concept to deployment — with expertise in deep learning, time-series analysis, predictive modelling.
 
   - 🌱 Actively expanding my knowledge in graph neural networks (GNNs) and large language models (LLMs).
