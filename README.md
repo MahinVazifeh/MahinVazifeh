@@ -69,7 +69,3 @@ Keywords: `Deep Learning`, `Preprocessing Data`, `AI`, `NLP`, `LLMs`
 - 💼 LinkedIn: [mahin-vazifehdan-80273156](https://www.linkedin.com/in/mahin-vazifehdan-80273156/)  
 - 📚 Google Scholar: [Mahin Vazifehdan](https://scholar.google.com/citations?user=RT58ucwAAAAJ&hl=en)  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahinVazifeh&hide=jupyter%20notebook&theme=monokai&langs_count=10&layout=compact" alt="Mahin Vazifehdan's GitHub stats" /><br />
-</p>
-
