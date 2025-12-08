@@ -4,7 +4,7 @@
 [![Google Scholar](https://img.shields.io/badge/-Google%20Scholar-black?logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=RT58ucwAAAAJ&hl=en)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github)](https://github.com/MahinVazifeh)
 
-🎓 PhD Student in Bioengineering and Health Technology | University of Pavia  
+🎓 PhD Student in Bioengineering | University of Pavia  
 🔬 AI | Data  
 📍 Based in Pavia, Italy
 
