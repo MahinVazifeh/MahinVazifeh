@@ -18,7 +18,7 @@
     
   - 🧪 My Phd was about the impact of Environment Exposure (Air Pollution & Weather Conditions) on MS Progression
     
-  - 🗣️ I speak English, Persian, and basic Dutch (A2, ongoing).
+  - 🗣️ I speak English, Persian, and Italian (A2) and basic Dutch.
 
 Keywords: `Deep Learning`, `Preprocessing Data`, `AI`, `NLP`, `LLMs`
 
